@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm **Suraj Bhan**, though most people online know me as **Nova**.
 
-I enjoy building things with code—especially games and projects that solve real problems. I love understanding how things work and turning ideas into something people can actually use.
+I enjoy building things with code—especially games and projects that solve real problems.
 
 I'm always looking for ways to improve myself and create more free time by building better systems and automating repetitive tasks. My systems are constantly evolving, just like I am.
 <!--
