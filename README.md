@@ -1,7 +1,9 @@
 ## Hi there 👋
-I'm  Suraj  bhan, In  the world of online I know as  Nova, 
-I like coding stuff, specially Game development  && and making my own projects, I want  to improve and like to have free time in hands, for that I use Systems which help me with that, I'm still improving My system.
+I'm **Suraj Bhan**, though most people online know me as **Nova**.
 
+I enjoy building things with code—especially games and projects that solve real problems. I love understanding how things work and turning ideas into something people can actually use.
+
+I'm always looking for ways to improve myself and create more free time by building better systems and automating repetitive tasks. My systems are constantly evolving, just like I am.
 <!--
 **Mrnova9810/Mrnova9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
