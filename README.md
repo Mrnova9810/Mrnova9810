@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm  Suraj  bhan, In  the world of online I know as  Nova, 
+I like coding stuff, specially Game development  && and making my own projects, I want  to improve and like to have free time in hands, for that I use Systems which help me with that, I'm still improving My system.
 
 <!--
 **Mrnova9810/Mrnova9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
