@@ -19,6 +19,6 @@ I build systems that save time and evolve as I learn.
 
 
 ## LEEDCODE 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/suraj9810?theme=dark&font=Nunito&ext=contest" />
 </p>
