@@ -99,7 +99,7 @@
 ## LEEDCODE 
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/suraj9810?theme=dark&font=Nunito&ext=contest"
-    width ="450"/>
+    width ="300" hight= "100"/>
 </p>
 
 
